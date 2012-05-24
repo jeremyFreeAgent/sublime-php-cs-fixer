@@ -1,0 +1,7 @@
+[
+    { "caption": "-" },
+    {
+        "caption": "PHP CS Fixer",
+        "command": "php_cs_fixer_fix_this_file"
+    }
+]

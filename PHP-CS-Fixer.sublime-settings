@@ -1,0 +1,18 @@
+{
+    // Turn on/off the debug output
+    "show_debug": true,
+
+    // Turn on/off PHP CS Fixer
+    "activated": true,
+
+    // PHP CS Fixer path
+    "path": "/usr/bin/php-cs-fixer.phar",
+
+    // PHP path
+    "php_path": "",
+
+    // Additional arguments you can specify into the application
+    "additional_args": {
+        "--level": "all"
+    }
+}
