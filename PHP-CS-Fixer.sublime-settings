@@ -6,7 +6,7 @@
     "activated": true,
 
     // PHP CS Fixer path
-    "path": "/usr/bin/php-cs-fixer.phar",
+    "path": "/php-cs-fixer.phar",
 
     // PHP path
     "php_path": "",
